@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.includePath": [
+        "./threadx/common/inc",
+        "./threadx/ports/cortex_m0/gnu/inc",
+    ]
+}
